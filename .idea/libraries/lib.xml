@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/netty-all-4.0.42.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/openmessaging-api-0.3.1-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rocketmq-namesrv-4.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rocketmq-common-4.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-boringssl-static-1.1.33.Fork26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rocketmq-tools-4.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rocketmq-client-4.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rocketmq-acl-4.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rocketmq-openmessaging-4.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rocketmq-remoting-4.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-classic-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rocketmq-srvutil-4.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dledger-0.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastjson-1.2.69.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snakeyaml-1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommander-1.72.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-digester-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rocketmq-example-4.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rocketmq-logging-4.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rocketmq-filter-4.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rocketmq-broker-4.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rocketmq-store-4.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-validator-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javassist-3.20.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-core-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
